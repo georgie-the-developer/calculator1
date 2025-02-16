@@ -1,1 +1,1 @@
-A bit unintuitive in use, but still just a caluculator, nothing really worthy of your attention.
+A bit unintuitive in use, and just a caluculator, nothing really worthy of your attention.
